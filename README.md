@@ -2,7 +2,7 @@
 
 I am Akram Khalilov, an Assistant Professor at the Department of Accounting and Operations Management.
 
-I'm an Applied Economist focusing on the intersection between corporate finance and accounting.
+I'm an Applied Economist focusing on the intersection of corporate finance and accounting.
 
 ---
 
