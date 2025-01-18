@@ -27,3 +27,8 @@ If you have any questions or collaboration ideas, feel free to reach out:
 - 💼 LinkedIn: [Akram Khalilov](https://www.linkedin.com/in/akram-khalilov-8206657b/)
 ---
 
+<p align=center>
+<img height="25" src="https://komarev.com/ghpvc/?username=ruch798&color=brightgreen" />
+<a href="[https://github.com/ruch798](https://github.com/akramkhal)">
+</a>
+</p>
